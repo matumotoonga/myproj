@@ -1,7 +1,7 @@
 package main
 
-import "fmt"
+import fmt "fmt" // 入出力フォーマットを実装したパッケージ
 
 func main() {
-  fmt.Println("Hello 世界")
+    fmt.Printf("Hello, world; or Καλημέρα κόσμε; or こんにちは 世界\n")
 }
